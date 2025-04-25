@@ -1,5 +1,5 @@
-show dbs
 use forelesning-01
+show dbs
 
 // Clean
 db.demo.deleteMany({});
