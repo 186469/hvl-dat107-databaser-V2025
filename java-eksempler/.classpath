@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="F01MongodbJava/src"/>
+	<classpathentry kind="src" path="F02MongodbJava/src"/>
+	<classpathentry kind="src" path="F03MongodbJava/src"/>
+	<classpathentry kind="src" path="F04MongodbJava/src"/>
+	<classpathentry kind="lib" path="F01MongodbJava/lib/bson-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F01MongodbJava/lib/mongodb-driver-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F01MongodbJava/lib/mongodb-driver-sync-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F01MongodbJava/lib/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F01MongodbJava/lib/slf4j-nop-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F02MongodbJava/lib/bson-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F02MongodbJava/lib/mongodb-driver-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F02MongodbJava/lib/mongodb-driver-sync-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F02MongodbJava/lib/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F02MongodbJava/lib/slf4j-nop-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F03MongodbJava/lib/bson-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F03MongodbJava/lib/mongodb-driver-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F03MongodbJava/lib/mongodb-driver-sync-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F03MongodbJava/lib/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F03MongodbJava/lib/slf4j-nop-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F04MongodbJava/lib/mongodb-driver-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F04MongodbJava/lib/mongodb-driver-sync-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F04MongodbJava/lib/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="F04MongodbJava/lib/slf4j-nop-2.0.0-alpha1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
